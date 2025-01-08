@@ -1,0 +1,28 @@
+## Build Folders
+bin/
+obj/
+
+## User-specific files
+.vs/
+.vscode/
+.idea/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msm
+
+## Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+## Windows Installer files
+Desktop.ini
+
+## User-specific files
+# Windows Installer
+*.user
+*.userosscache
+*.suo
+*.userprefs
