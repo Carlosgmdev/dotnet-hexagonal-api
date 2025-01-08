@@ -1,6 +1,9 @@
-## Build Folders
+## .NET
 bin/
 obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
 
 ## User-specific files
 .vs/
@@ -17,12 +20,11 @@ obj/
 Thumbs.db
 ehthumbs.db
 
+## JetBrains Rider
+.idea/
+
 ## Windows Installer files
 Desktop.ini
 
-## User-specific files
-# Windows Installer
-*.user
-*.userosscache
-*.suo
-*.userprefs
+# MacOS .DS_Store
+.DS_Store

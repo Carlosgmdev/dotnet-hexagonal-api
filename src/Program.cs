@@ -19,8 +19,6 @@ builder.Services.AddScoped<ProductoService>();
 
 var app = builder.Build();
 
-
-
 // Configurar el pipeline HTTP
 if (app.Environment.IsDevelopment())
 {
